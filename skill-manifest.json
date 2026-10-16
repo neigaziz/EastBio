@@ -1,0 +1,10 @@
+{
+  "name": "eastbio",
+  "version": "1.0.0",
+  "description": "Source-grounded assistance for EastBio applicants, students, supervisors, and programme enquiries.",
+  "entrypoint": "SKILL.md",
+  "knowledge": "references/EastBio_complete_site_capture.md",
+  "knowledge_capture_date": "2026-10-15",
+  "evaluation_cases": "tests/evaluation-cases.md",
+  "scope_note": "The supplied capture is partial and time-sensitive details require live official verification."
+}
